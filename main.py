@@ -6,7 +6,7 @@ from datetime import datetime
 from typing import Optional
 
 # ========== НАСТРОЙКИ ==========
-BOT_TOKEN = "8432058073:AAEpfLO6qBUq4jqQIFCnlpcrJxpo6-HavH0"
+BOT_TOKEN = "8541361359:AAFXcBFKHBGJ8ScWcydPK5EF2xwuiGvkk1E"
 ADMIN_ID = 8500766185
 # ===============================
 
@@ -2613,3 +2613,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
